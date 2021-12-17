@@ -1,0 +1,1 @@
+copy .\inc\*.* C:\Users\LENOVO\Documents\Arduino\libraries\adClass
